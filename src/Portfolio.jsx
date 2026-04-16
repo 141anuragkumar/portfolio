@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import React,{ useState, useEffect, useRef } from "react";
 
 const NAV = ["My Portfolio"];
 // Work", "About", "Skills", "Contact
